@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Noter's Webpage Notes",
+    "description": "Add and save notes for any webpage.",
+    "version": "1.0",
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "icons": {
+      "128": "icon.png"
+    }
+  }
+  
